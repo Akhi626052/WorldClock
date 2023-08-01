@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_favorite"
+            android:icon="@drawable/favorite"
+            android:title="Favourites"/>
+        <item
+            android:id="@+id/nav_alarm"
+            android:icon="@drawable/alarm"
+            android:title="Alarms"/>
+        <item
+            android:id="@+id/nav_setting"
+            android:icon="@drawable/setting"
+            android:title="Settings"/>
+
+        <item
+            android:id="@+id/nav_feedback"
+            android:icon="@drawable/feedback"
+            android:title="Support &#38; Feedback"/>
+
+        <item
+            android:id="@+id/nav_tutorial"
+            android:icon="@drawable/tutorial"
+            android:title="Tutorial"/>
+
+        <item
+            android:id="@+id/nav_moreapps"
+            android:icon="@drawable/tutorial"
+            android:title="Tutorial"/>
+
+    </group>
+
+
+
+
+
+
+
+
+
+
+
+</menu>
